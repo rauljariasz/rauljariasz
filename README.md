@@ -1,6 +1,6 @@
 ![](./assets/portada.png)
-###<center>Hi there 👋</center>
-<center>My name is Raúl Arias, I'm a Full Stack Developer student, passionate about web programming and technology. Currently I've solid knowledge as a frontend developer... I'm constantly studying, learning and experimenting with technologies and tools to find the best solutions  to the problems at hand.</center>
+###Hi there 👋
+My name is Raúl Arias, I'm a Full Stack Developer student, passionate about web programming and technology. Currently I've solid knowledge as a frontend developer... I'm constantly studying, learning and experimenting with technologies and tools to find the best solutions  to the problems at hand.
 
 <!--
 **rauljariasz/rauljariasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
