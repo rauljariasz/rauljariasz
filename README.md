@@ -1,4 +1,5 @@
-![Banner](./assets/portada.png)
+![1584x396 Banner](https://user-images.githubusercontent.com/113625378/218342652-83c3329f-e07b-4544-a9f8-ee4617d3c727.png)
+
 
 ### Hi There 👋
 My name is Raúl Arias, I'm a Full Stack Developer student, passionate about web programming and technology. Currently I've solid knowledge as a frontend developer... I'm constantly studying, learning and experimenting with technologies and tools to find the best solutions to the problems at hand.
