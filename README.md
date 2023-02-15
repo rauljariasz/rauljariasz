@@ -2,7 +2,7 @@
 
 
 ### Hi There 👋
-My name is Raúl Arias, I'm a Full Stack Developer student, passionate about web development and technology. Currently I've solid knowledge as a frontend developer... I'm constantly studying, learning and experimenting with technologies and tools to find the best solutions to the problems at hand.
+My name is Raúl Arias, I'm a Frontend Developer and Full Stack Developer student, passionate about web development and technology. Currently I've solid knowledge as a frontend developer... I'm constantly studying, learning and experimenting with technologies and tools to find the best solutions to the problems at hand.
 
 #
 <br>
