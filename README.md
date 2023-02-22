@@ -1,5 +1,4 @@
-![1584x396 banner (1)](https://user-images.githubusercontent.com/113625378/220487856-905b998d-21ec-41bf-84f4-9e752037935f.png)
-
+![1584x396 banner (2)](https://user-images.githubusercontent.com/113625378/220488116-27ffd978-5d8d-4df7-866f-8e89aee74ce0.png)
 
 
 ### Hi There 👋
