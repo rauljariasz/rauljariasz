@@ -1,7 +1,7 @@
 ![1584x396 banner (3)](https://user-images.githubusercontent.com/113625378/220489618-2647df77-cfe8-4e9a-b448-5d7bf372c9ee.png)
 
 
-### Hi There 👋
+### Hi There  👋
 My name is Raúl Arias, I'm a Frontend Developer and Full Stack Developer student, passionate about web development and technology. Currently I've solid knowledge as a frontend developer... I'm constantly studying, learning and experimenting with technologies and tools to find the best solutions to the problems at hand.
 
 #
