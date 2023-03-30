@@ -12,9 +12,9 @@ My name is Raúl Arias, I'm a Frontend Developer and Full Stack Developer studen
 <br> 
 
 
-- 🔭 I’m currently working as a Freelancer.
-- 🌱 I’m currently learning the PERNN Stack.
-- 👯 I’m looking to collaborate on new open-source projects.
+- 🔭 I’m currently working as a Freelancer..
+- 🌱 I’m currently learning the PERNN Stack..
+- 👯 I’m looking to collaborate on new open-source projects..
 
 #
 
