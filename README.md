@@ -4,20 +4,21 @@
 ### Hi There  👋
 My name is Raúl Arias, I'm a Full Stack Developer, passionate about web development and technology. I'm constantly studying, learning and experimenting with technologies and tools to find the best solutions to the problems at hand.
 
-#
-<br>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/113625378/218338322-e64b87fc-2244-4dd6-92d8-a6dbb0c25939.gif" width="300px"/>
 
-<br> 
-
 
 - 🔭 I’m currently working as a Freelancer.
-
-#
+  
+<br>
+<br>
+<br>
 
 ## Goals in progress 👨‍💻
  - 📈 Improve my skills in ExpressJS/NodeJS.
+
+<br>
+<br>
 <br>
 
 <div align="center">
