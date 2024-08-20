@@ -16,6 +16,7 @@ My name is Raúl Arias, I'm a Full Stack Developer, passionate about web develop
 
 ## Goals in progress 👨‍💻
  - 📈 Improve my skills in ExpressJS/NodeJS.
+ - Learn PHP frameworks in depth. 
 
 <br>
 <br>
