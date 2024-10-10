@@ -8,7 +8,7 @@ My name is Raúl Arias, I'm a Full Stack Developer, passionate about web develop
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/113625378/218338322-e64b87fc-2244-4dd6-92d8-a6dbb0c25939.gif" width="300px"/>
 
 
-- 🔭 I’m currently working as a Freelancer.
+- 🔭 I’m currently working as a Frontend Developer at Tribal World Wide Guatemala.
   
 <br>
 <br>
@@ -16,6 +16,7 @@ My name is Raúl Arias, I'm a Full Stack Developer, passionate about web develop
 
 ## Goals in progress 👨‍💻
  - 📈 Improve my skills in ExpressJS/NodeJS.
+ - Improve my communication in English.
  - Learn PHP frameworks in depth. 
 
 <br>
